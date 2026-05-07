@@ -1,7 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: "Alegreya Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: "Alegreya Sans", sans-serif;
 }
 
 h1,
@@ -9,348 +9,336 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: "Alegreya", serif;
-    font-weight: 400;
+  font-family: "Alegreya", serif;
+  font-weight: 400;
 }
 
 .home {
-    background-image: url(images/drew-coffman-1872.jpg);
-    height: 134vh;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  background-image: url(images/drew-coffman-1872.jpg);
+  height: 134vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-/* .nav{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-} */
+
 .overlay {
-    background-color: rgba(0, 0, 0, .2);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .logo {
-    width: 13%;
-    margin: 22px 65px;
-    float: left;
+  width: 13%;
+  margin: 22px 65px;
+  float: left;
 }
 
 img {
-    width: 100%;
+  width: 100%;
 }
 
 .linls ul {
-
-    float: right;
-    list-style: none;
-    margin-top: 15px;
-    margin-right: 50px;
-    color: white;
+  float: right;
+  list-style: none;
+  margin-top: 15px;
+  margin-right: 50px;
+  color: white;
 }
 
 .linls ul li {
-    float: left;
-    margin: 18px;
+  float: left;
+  margin: 18px;
 }
 
 .linls ul li a {
-
-    font-family: "Alegreya", serif;
-    font-size: 18px;
-    line-height: 32px;
-    color: white;
-    text-decoration: none;
+  font-family: "Alegreya", serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: white;
+  text-decoration: none;
 }
 
 .clr {
-    clear: both;
+  clear: both;
 }
 
 .home_con {
-    text-align: center;
-    color: white;
-    width: 700px;
-    margin: auto;
-    margin-top: 170px;
-
+  text-align: center;
+  color: white;
+  width: 700px;
+  margin: auto;
+  margin-top: 170px;
 }
 
 .home_con h1 {
-    margin: 2px 0px;
-    font-size: 76px;
-    font-weight: 400;
-    line-height: 91px;
+  margin: 2px 0px;
+  font-size: 76px;
+  font-weight: 400;
+  line-height: 91px;
 }
 
 .home_con p {
-    margin: 21px 0px;
-    font-size: 22px;
+  margin: 21px 0px;
+  font-size: 22px;
 }
 
 .home_con .p2 {
-    line-height: 45px;
-    font-size: 24px;
-
+  line-height: 45px;
+  font-size: 24px;
 }
 
 button {
-    padding: 13px;
-    margin: 5px;
-    color: white;
-    width: 130px;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 27px;
+  padding: 13px;
+  margin: 5px;
+  color: white;
+  width: 130px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 27px;
 }
 
 .btn1 {
-    background-color: #8e7754;
-    border-radius: 7%;
-    border: 2px solid transparent;
-
+  background-color: #8e7754;
+  border-radius: 7%;
+  border: 2px solid transparent;
 }
 
 .btn2 {
-    background-color: transparent;
-    border-radius: 7%;
-    border: 2px solid white;
+  background-color: transparent;
+  border-radius: 7%;
+  border: 2px solid white;
 }
 
 .scr {
-    height: 50px;
-    width: 30px;
-    border: white solid 2px;
-    border-radius: 39%;
-    margin: auto;
-    margin-top: 100px;
+  height: 50px;
+  width: 30px;
+  border: white solid 2px;
+  border-radius: 39%;
+  margin: auto;
+  margin-top: 100px;
 }
 
 /* about */
 .about_con {
-    width: 90%;
-    margin: auto;
-    margin-top: 80px;
-    margin-bottom: 80px;
-
+  width: 90%;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .ig {
-    width: 47%;
-    float: left;
+  width: 47%;
+  float: left;
 }
 
 .about_cup {
-    float: right;
-    margin-top: 60px;
-    width: 47%;
+  float: right;
+  margin-top: 60px;
+  width: 47%;
 }
 
-.about_cup h3 {
-    font-size: 32px;
-    line-height: 44px;
-    font-weight: 400;
-    color: rgb(48, 48, 48);
-    margin-bottom: 25px;
+.about_cup h2 {
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 400;
+  color: rgb(48, 48, 48);
+  margin-bottom: 25px;
 }
 
 .about_cup p {
-    line-height: 32px;
-    font-size: 17px;
-    color: rgb(104, 104, 104);
+  line-height: 32px;
+  font-size: 17px;
+  color: rgb(104, 104, 104);
 }
 
 .icon_con {
-    margin: 15px 0;
+  margin: 15px 0;
 }
 
 .icon {
-    width: 7.5%;
-    border: rgba(104, 104, 104, .3) solid 1px;
-    border-radius: 50%;
-    float: left;
-    margin-right: 10px;
+  width: 7.5%;
+  border: rgba(104, 104, 104, 0.3) solid 1px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
 }
 
 /* Location */
 .loca {
-    height: 100vh;
-    background-color: #f8f8f8;
+  height: 100vh;
+  background-color: #f8f8f8;
 }
 
 .loca_con {
-    width: 90%;
-    margin: auto;
+  width: 90%;
+  margin: auto;
 }
 
 .loca_cup {
-    float: left;
-    width: 50%;
-    margin-top: 180px;
+  float: left;
+  width: 50%;
+  margin-top: 180px;
 }
 
 .loca_img {
-    margin-top: 80px;
-    width: 47%;
-    float: right;
+  margin-top: 80px;
+  width: 47%;
+  float: right;
 }
 
 .loca_cup h3 {
-    font-size: 32px;
-    font-weight: 400;
-    line-height: 44px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
 }
 
 .loca_cup p {
-    font-size: 17px;
-    font-weight: 400;
-    line-height: 32px;
-    margin-top: 20px;
-    color: rgb(104, 104, 104);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 20px;
+  color: rgb(104, 104, 104);
 }
 
 /* baking */
 .baking {
-    margin: 73px 60px;
-    font-size: 17px;
-    line-height: 32px;
-    font-weight: 400;
+  margin: 73px 60px;
+  font-size: 17px;
+  line-height: 32px;
+  font-weight: 400;
 }
 
 .bake_head {
-    text-align: center;
+  text-align: center;
 }
 
 .bake_head h3 {
-    font-size: 30px;
-    line-height: 41px;
-    font-weight: 400;
-    margin-bottom: 19px;
+  font-size: 30px;
+  line-height: 41px;
+  font-weight: 400;
+  margin-bottom: 19px;
 }
 
 .bake_head p {
-    margin-bottom: 59px;
-    color: rgb(136, 136, 136);
+  margin-bottom: 59px;
+  color: rgb(136, 136, 136);
 }
 
 .bake_item {
-    color: rgb(104, 104, 104);
-    width: 31.2%;
-    float: left;
-    text-align: center;
+  color: rgb(104, 104, 104);
+  width: 31.2%;
+  float: left;
+  text-align: center;
 }
 
 .item2 {
-    margin: 0 38px;
+  margin: 0 38px;
 }
 
 .bake_item h4 {
-    color: rgb(48, 48, 48);
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 30px;
-    margin-top: 35px;
-    margin-bottom: 15px;
+  color: rgb(48, 48, 48);
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  margin-top: 35px;
+  margin-bottom: 15px;
 }
 
 /* info */
 .info {
-    background-color: #f8f8f8;
-    height: 120vh;
-    overflow: auto;
+  background-color: #f8f8f8;
+  height: 120vh;
+  overflow: auto;
 }
 
 .contain {
-    font-size: 17px;
-    line-height: 32px;
-    color: rgb(104, 104, 104);
-    margin: 95px 60px;
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+  margin: 95px 60px;
 }
 
 .info_con {
-    float: left;
-    width: 45%;
+  float: left;
+  width: 45%;
 }
 
 .h3 {
-    font-size: 32px;
-    line-height: 44px;
-    color: rgb(48, 48, 48);
-    margin-bottom: 25px;
+  font-size: 32px;
+  line-height: 44px;
+  color: rgb(48, 48, 48);
+  margin-bottom: 25px;
 }
 
 .detail .info_logo .detail_logo {
-    background-color: #8e7754;
-    width: 37px;
-    border-radius: 20px;
-    float: left;
-    margin-right: 15px;
-    margin-bottom: 27px;
+  background-color: #8e7754;
+  width: 37px;
+  border-radius: 20px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 27px;
 }
 
 #mab {
-    width: 50%;
-    float: right;
+  width: 50%;
+  float: right;
 }
 
 /* footer */
 .footer {
-    background-color: #403d38;
-    height: 520px;
-    overflow: auto;
+  background-color: #403d38;
+  height: 520px;
+  overflow: auto;
 }
 
 .footer h4 {
-    margin-bottom: 25px;
-    font-size: 18px;
-    line-height: 25px;
-    color: white;
+  margin-bottom: 25px;
+  font-size: 18px;
+  line-height: 25px;
+  color: white;
 }
 
 .footer p {
-    font-size: 16px;
-    line-height: 30px;
-    color: rgb(150, 150, 150);
+  font-size: 16px;
+  line-height: 30px;
+  color: rgb(150, 150, 150);
 }
 
 .footer_con {
-    margin: 85px 62px;
+  margin: 85px 62px;
 }
 
 .footer_about {
-    width: 23%;
-    float: left;
+  width: 23%;
+  float: left;
 }
 
-
 .footer_why {
-    margin-left: 25px;
-    float: left;
-    width: 23%;
+  margin-left: 25px;
+  float: left;
+  width: 23%;
 }
 
 .footer_opening {
-    margin-left: 25px;
-    float: left;
-    width: 23%;
+  margin-left: 25px;
+  float: left;
+  width: 23%;
 }
 
 .footer_contact {
-    margin-left: 25px;
-    width: 23%;
-    float: left;
-    height: 300px;
-    background-color: transparent;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-image: url(images/contact-details-map.png);
+  margin-left: 25px;
+  width: 23%;
+  float: left;
+  height: 300px;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(images/contact-details-map.png);
 }
 
 .arrow {
-    width: 7%;
-    float: left;
+  width: 7%;
+  float: left;
 }
 
 /* .footer_why p::after {
@@ -360,39 +348,39 @@ button {
     background-color: #4a4742;
 } */
 .foot_icon {
-    width: 11%;
-    float: left;
+  width: 11%;
+  float: left;
 }
 
 /* copyright */
 .Copyright {
-    background-color: #353330;
-    height: 320px;
-    overflow: auto;
+  background-color: #353330;
+  height: 320px;
+  overflow: auto;
 }
 
 .copy_con {
-    width: 27%;
-    margin: auto;
-    text-align: center;
-    color: rgb(119, 119, 119);
+  width: 27%;
+  margin: auto;
+  text-align: center;
+  color: rgb(119, 119, 119);
 }
 
 .copyimg {
-    width: 100%;
-    margin-top: 65px;
-    margin-bottom: 25px;
+  width: 100%;
+  margin-top: 65px;
+  margin-bottom: 25px;
 }
 
 .copy_icon_con {
-    background-color: teal;
-    margin-left: 80px;
+  background-color: teal;
+  margin-left: 80px;
 }
 
 .copy_icon {
-    width: 13%;
-    border: 2px gray solid;
-    border-radius: 50%;
-    float: left;
-    margin: 25px 5;
+  width: 13%;
+  border: 2px gray solid;
+  border-radius: 50%;
+  float: left;
+  margin: 25px 5px;
 }
